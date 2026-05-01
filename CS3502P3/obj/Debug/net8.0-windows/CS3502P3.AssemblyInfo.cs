@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS3502P3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42e936ee9d9f93daa4e4671678f1b3f110e30daa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS3502P3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS3502P3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

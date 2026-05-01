@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mithi\\source\\repos\\CS3502P3\\CS3502P3\\CS3502P3.csproj",
+      "projectUniqueName": "C:\\Users\\mithi\\OneDrive\\Documents\\GitHub\\cs3502-P3\\CS3502P3\\CS3502P3.csproj",
       "projectName": "CS3502P3",
-      "projectPath": "C:\\Users\\mithi\\source\\repos\\CS3502P3\\CS3502P3\\CS3502P3.csproj",
+      "projectPath": "C:\\Users\\mithi\\OneDrive\\Documents\\GitHub\\cs3502-P3\\CS3502P3\\CS3502P3.csproj",
       "packagesPath": "C:\\Users\\mithi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mithi\\source\\repos\\CS3502P3\\CS3502P3\\obj\\",
+      "outputPath": "C:\\Users\\mithi\\OneDrive\\Documents\\GitHub\\cs3502-P3\\CS3502P3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

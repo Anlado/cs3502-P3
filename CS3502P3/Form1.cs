@@ -253,32 +253,6 @@ namespace CS3502P3
             Close();
         }
 
-        
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint_1(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         //Checks if the file name inputted is valid, where it then creates and stores the file/folder and displays it in the table. 
         private void button8_Click(object sender, EventArgs e)
@@ -656,9 +630,7 @@ namespace CS3502P3
 
             public SystemFile(String name, String fileDirectory) : base(name, fileDirectory, true)
             {
-
                 setFileType();
-
 
                 contents = "";
                 size = 0;
